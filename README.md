@@ -42,7 +42,7 @@ The code is modular. Each function handles a logically distinct part of the pipe
 Open and run:
 
 ```
-src/script.ipynb
+script.ipynb
 ```
 
 You can run this in:
